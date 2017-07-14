@@ -41,18 +41,9 @@
   },
   "content": [
     {
-      "component": "nav",
-      "links": [
-        {
-          "href": "https://github.com/ohyes/ohyes.github.io",
-          "text": "GitHub"
-        }
-      ]
-    },
-    {
       "component": "header",
-      "heading": "ohyes.github.io",
-      "subhead": null,
+      "heading": "ohyes",
+      "subhead": "",
       "children": [
         {
           "component": "ui/TweetButton",
@@ -64,18 +55,13 @@
           "user": "ohyes",
           "repo": "ohyes.github.io"
         }
-      ]
-    },
-    {
-      "component": "footer",
+      ],
+      "slug": "",
+      "text": "website",
       "links": [
         {
-          "href": "https://github.com/ohyes/ohyes.github.io",
-          "text": "GitHub"
-        },
-        {
-          "href": "https://github.com/ohyes",
-          "text": "ohyes"
+          "href": "",
+          "text": ""
         }
       ]
     }
